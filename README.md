@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! I'm Muhamad Faisal Ilham, currently studying at Koda Academy</h2>
+<h2 align="left">
+  Rizky Maulana | Frontend Developer | React & Next.js Specialist | UI/UX Performance-Oriented
+</h2>
 
-<h4 align="left">I'm currently immersing myself in Fullstack Web Development with a focus on Golang through an intensive bootcamp at Koda Academy. With a background in graphic design, I'm expanding my skill set to become a well-rounded developer.</h4>
+<h4 align="left">
+  Frontend Developer with 2+ years of experience building scalable, user-centric web applications. Specializes in React and Next.js with strong attention to UI/UX and performance. Successfully delivered 10+ web projects from scratch to deployment for clients and internal teams. Passionate about clean code, design systems, and cross-functional collaboration.
+</h4>
 
 ###
 
@@ -60,21 +64,21 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/mhmdfsalll/" target="_blank">
+  <a href="https://www.instagram.com/codewithrizky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:muhamadfaisallilham@gmail.com" target="_blank">
+  <a href="mailto:rizkymaulana.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/faisal-ilham-590113304/" target="_blank">
+  <a href="https://linkedin.com/in/rizkymaul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+### <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codewithrizky/codewithrizky/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/codewithrizky/codewithrizky/output/snake.svg" alt="Snake animation" />
 
 ###
